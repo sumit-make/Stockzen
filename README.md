@@ -66,7 +66,8 @@ The platform is designed to simulate a real-world trading experience with secure
 - React.js
 - React Router
 - Axios
-- CSS
+- CSS(Tailwind)
+- JavaScript
 - Bootstrap / Material UI
 
 ## Backend
@@ -75,10 +76,11 @@ The platform is designed to simulate a real-world trading experience with secure
 - MongoDB
 - Mongoose
 - JWT Authentication
+- encryption, cookies etc
 
 ## Other Tools
 - Git & GitHub
-- Postman
+- Thunder Client
 - VS Code
 
 ---
